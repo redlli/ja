@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-08T18:47:18+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">privacy-policy</title><link href="http://localhost:4000/ftake/privacy-policy" rel="alternate" type="text/html" title="privacy-policy" /><published>2025-04-08T17:53:54+05:30</published><updated>2025-04-08T17:53:54+05:30</updated><id>http://localhost:4000/ftake/ftake-privacy-policy</id><content type="html" xml:base="http://localhost:4000/ftake/privacy-policy"><![CDATA[<h1 id="privacy-policy-for-ftake">Privacy Policy for Ftake</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-08T19:14:06+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/04/08/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-04-08T17:53:54+05:30</published><updated>2025-04-08T17:53:54+05:30</updated><id>http://localhost:4000/jekyll/update/2025/04/08/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/04/08/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">privacy-policy</title><link href="http://localhost:4000/ftake/privacy-policy" rel="alternate" type="text/html" title="privacy-policy" /><published>2025-04-08T17:53:54+05:30</published><updated>2025-04-08T17:53:54+05:30</updated><id>http://localhost:4000/ftake/ftake-privacy-policy</id><content type="html" xml:base="http://localhost:4000/ftake/privacy-policy"><![CDATA[<h1 id="privacy-policy-for-ftake">Privacy Policy for Ftake</h1>
 
 <h2 id="1-data-collection--usage">1. Data Collection &amp; Usage</h2>
 <ul>
@@ -29,20 +45,34 @@
 </ul>
 
 <h2 id="5-acceptance-of-policy">5. Acceptance of Policy</h2>
-<p>By playing Ftake, users <strong>accept</strong> this Privacy Policy and its terms. Continued use of the game indicates agreement with these practices.</p>]]></content><author><name></name></author><category term="ftake" /><summary type="html"><![CDATA[Privacy Policy for Ftake]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/04/08/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-04-08T17:53:54+05:30</published><updated>2025-04-08T17:53:54+05:30</updated><id>http://localhost:4000/jekyll/update/2025/04/08/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/04/08/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<p>By playing Ftake, users <strong>accept</strong> this Privacy Policy and its terms. Continued use of the game indicates agreement with these practices.</p>]]></content><author><name></name></author><category term="ftake" /><summary type="html"><![CDATA[Privacy Policy for Ftake]]></summary></entry><entry><title type="html">privacy-policy</title><link href="http://localhost:4000/zone/privacy-policy" rel="alternate" type="text/html" title="privacy-policy" /><published>2025-04-08T17:53:54+05:30</published><updated>2025-04-08T17:53:54+05:30</updated><id>http://localhost:4000/zone/ftake-privacy-policy</id><content type="html" xml:base="http://localhost:4000/zone/privacy-policy"><![CDATA[<h1 id="privacy-policy-for-zone">Privacy Policy for zone</h1>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<h2 id="introduction">Introduction</h2>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p>Welcome to <strong>ZONE!</strong> We are committed to protecting your privacy and ensuring that your data remains secure. This Privacy Policy explains how we collect, use, and protect your information.</p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<h2 id="data-collection-and-usage">Data Collection and Usage</h2>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>ZONE records user data solely on your device. This data is only accessible to you and is not stored on our servers.</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<h2 id="data-security">Data Security</h2>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>We have implemented robust security measures to ensure that your data is protected and remains private. The data you record on your phone will only be shown to you and will not be accessible to us, the developers.</p>
+
+<p>If your device gets hacked or stolen, we cannot take responsibility for recovering or securing your data.</p>
+
+<h2 id="third-party-access">Third-Party Access</h2>
+
+<p>We <strong>do not</strong> sell, share, or distribute your data to any third parties. Your data is yours alone, and we respect your privacy.</p>
+
+<h2 id="developer-access">Developer Access</h2>
+
+<p>As developers, we do <strong>not</strong> have access to the data you record on your device. All data is securely stored on your phone and is only accessible to you.</p>
+
+<h2 id="enjoy-zone">Enjoy ZONE</h2>
+
+<p>We hope you enjoy using <strong>ZONE</strong> and feel confident knowing that your data is secure and private.</p>
+
+<h2 id="contact-us">Contact Us</h2>
+
+<p>If you have any questions or concerns about our Privacy Policy, please feel free to contact us.</p>]]></content><author><name></name></author><category term="zone" /><summary type="html"><![CDATA[Privacy Policy for zone]]></summary></entry></feed>
