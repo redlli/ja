@@ -16,5 +16,5 @@ collections:
   zone:
     output: true
   ftake:
-  	output:true
+    output: true
 
