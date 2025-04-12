@@ -2,6 +2,7 @@
 title: JA
 layout: def
 permalink: /
+
 ---
 <style>
     .dek {

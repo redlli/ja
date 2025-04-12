@@ -4,6 +4,9 @@ title:  "privacy-policy"
 date:   2025-04-08 17:53:54 +0530
 categories: ftake
 permalink: ftake/privacy-policy
+description: "privacy-policy page for ftake app"
+keywords: "privacy-policy, ftake, JA, JA by redlii"
+keyqe: "what is privacy-policy for ftake app, do ftake collacet any user data, can i make real money in ftake, is ftake safe, dose banana point have real value, can i buy stuff online with banana point"
 ---
 # Privacy Policy for Ftake
 

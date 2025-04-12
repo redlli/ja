@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  "privacy-policy"
+layout: def
+title:  "Privacy-Policy"
 date:   2025-04-08 17:53:54 +0530
 categories: zone
 permalink: zone/privacy-policy
+description: "privacy-policy page for Zone app"
+keywords: "privacy-policy, zone, JA, JA by redlii"
+keyqe: "what is privacy-policy for zone app, do zone collacet any user data, where is my data store, is zone safe, what if i lost my phone"
 ---
 # Privacy Policy for zone
 
