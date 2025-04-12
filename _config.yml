@@ -1,4 +1,5 @@
-title: ja
+title: JA
+
 email: ja@redlli.com
 description: >- # this means to ignore newlines until "baseurl:"
   official page for ja. apps games and some cool stuff
@@ -6,11 +7,21 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  redlli
 
+# SEO Settings
+seo:
+  title: "JA"
+  description: "Home page for ja apps and games and many more"
+  keywords: "apps, games, coding, JA, JA by redlii"
+  image: "/assets/images/cover.jpg"
+  keyqe: "what is JA?, best game by JA, best app by JA, JA new game"
+  
+  
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 collections:
   zone:
