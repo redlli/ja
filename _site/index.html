@@ -5,32 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JA</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
-    
-    <!-- Include Font Awesome for icons -->
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="icon" href="/assets/img/icons/JA_logo.png" type="image/x-icon">
 
-    <!--<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>JA | ja</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>JA | official page for JA. Apps Games and many cool stuff.</title>
 <meta name="generator" content="Jekyll v4.3.4" />
 <meta property="og:title" content="JA" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="official page for ja. apps games and some cool stuff" />
-<meta property="og:description" content="official page for ja. apps games and some cool stuff" />
+<meta name="description" content="Home page for JA explore Apps, Games and many more…." />
+<meta property="og:description" content="Home page for JA explore Apps, Games and many more…." />
 <link rel="canonical" href="http://localhost:4000/" />
 <meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="ja" />
+<meta property="og:site_name" content="JA" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="JA" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"official page for ja. apps games and some cool stuff","headline":"JA","name":"ja","url":"http://localhost:4000/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"Home page for JA explore Apps, Games and many more….","headline":"JA","name":"JA","url":"http://localhost:4000/"}</script>
 <!-- End Jekyll SEO tag -->
--->
+
 </head>
 
 <body>
-    
+
 <script type="application/json" id="search-data">{
   "posts": [
     
@@ -55,100 +54,156 @@
 
 </script>
 
-    <!-- Search Bar Container -->
-    <div class="search-bar-container">
-        <input type="search" id="search-bar" placeholder="Search..." class="search-bar">
+   <div class="search-bar-container">
+        <input type="search" id="search-bar" placeholder="Search..." class="search-bar search-input-mobile">
+        <i class="fas fa-search search-icon-mobile"></i>
         <div class="search-result" id="search-results"></div>
     </div>
-    <script type="application/json" id="search-data">
-        {
-  "posts": [
-    
-      
-        {
-          "title": "Privacy-Policy",
-          "snippet": "Privacy Policy for zone Introduction Welcome to ZONE! We are committed to protecting your privacy and ensuring that your data remains secure. This Privacy Policy...",
-          "url": "/zone/privacy-policy"
-        },
-      
-    
-      
-        {
-          "title": "privacy-policy",
-          "snippet": "Privacy Policy for Ftake 1. Data Collection &amp;amp; Usage We do not store any user data on our servers. All user data is saved locally...",
-          "url": "/ftake/privacy-policy"
-        }
-      
-    
-  ]
-}
-
-
-    </script>
 
     <div class="sidebar">
-        <a href="https://www.redlii.com"><img src="/assets/img/icons/Redlii.ico" alt="Redlii Icon" style="width: 30px; height: 30px; margin-right: 10px;"> <span>Redlii</span></a>
-        <a href="/"><i class="fas fa-home"></i> <span>Home</span></a>
-        <a href="/test"><i class="fas fa-random"></i> <span>Random</span></a>
-        <a href="/readme"><i class="fa-solid fa-circle-info"></i> <span>Readme</span></a>
-        <a href="/about"><i class="fas fa-envelope"></i> <span>About</span></a>
-        
-        <div class="sidebar-f"><!-- sidebar footer -->
-            <i id="bug"class="fa-solid fa-bug"></i>
+        <a href="https://www.redlii.com" class="sidebar-link"><img src="/assets/img/icons/Redlii.ico" alt="Redlii Icon" style="width: 30px; height: 30px; margin-right: 10px;"> <span>Redlii</span></a>
+        <a href="/" class="sidebar-link"><i class="fas fa-home"></i> <span>Home</span></a>
+        <a href="/test" class="sidebar-link"><i class="fas fa-random"></i> <span>Random</span></a>
+        <a href="/readme" class="sidebar-link"><i class="fa-solid fa-circle-info"></i> <span>Readme</span></a>
+        <a href="/about" class="sidebar-link"><i class="fas fa-envelope"></i> <span>About</span></a>
+
+        <div class="sidebar-f"><i id="bug" class="fa-solid fa-bug"></i>
             <i id="credit-card" class="fa-solid fa-credit-card"></i>
             <i id="yin-yang" class="fa-solid fa-yin-yang"></i>
-            <i id ="support-us"class="fa-solid fa-handshake-angle"></i>
+            <i id="support-us" class="fa-solid fa-handshake-angle"></i>
         </div>
     </div>
-   
+
     <div class="main-content">
         <div class="content">
             <style>
-    .dek {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        gap: 10px;
-        background-color: lightgray;
-        padding: 10px;
-    }
-    .card {
-        padding: 10px;
-        text-align: center;
-        background-color: gray;
-        color: white;
-        font-family: Arial, sans-serif;
-        transition: background-color 0.3s ease;
-    }
-    .card:hover {
-        background-color: red;
-    }
-    .card a {
-        color: white;
-        text-decoration: none;
-        display: block;
-        height: 100%;
-        width: 100%;
-    }
+
+  /* Projects Section */
+  .section.projects {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  .section.projects h2 {
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    color: white;
+  }
+  .project-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    width: 90%;
+    max-width: 1200px;
+    margin: 20px auto;
+  }
+  .card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.2s ease-in-out;
+  }
+  .card:hover {
+    transform: scale(1.05);
+  }
+  .card img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  .card h3 {
+    color: #4CAF50;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  .card p {
+    color: #666;
+    margin-bottom: 15px;
+  }
+  .card a {
+    display: inline-block;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  .card a:hover {
+    background-color: #007bff;
+    color: white;
+  }
+
+  /* Scrolling Ticker */
+  .ticker-wrapper {
+    overflow: hidden;
+    background-color: #222;
+    margin-top: 10px;
+    width: 100%;
+  }
+  .ticker-content {
+    display: inline-block;
+    white-space: nowrap;
+    animation: scrollTicker 15s linear infinite;
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  @keyframes scrollTicker {
+    from { transform: translateX(100%); }
+    to { transform: translateX(-100%); }
+  }
 </style>
 
-<div class="dek">
+<div class="section projects">
+  <h2>Projects</h2>
+  <div class="project-container">
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     <div class="card">
-        <a href="/zone/privacy-policy">
-            
-            <h1>Privacy-Policy</h1>
-            <p>April 08, 2025</p>
-        </a>
+      <img src="/assets/img/ftake/icon.png" alt="ftake Icon" />
+      <h3>ftake</h3>
+      <p>ftake here is take all you banana points</p>
+      <a href="/ftake">Learn More</a>
     </div>
+    
+    
     
     <div class="card">
-        <a href="/ftake/privacy-policy">
-            
-            <h1>privacy-policy</h1>
-            <p>April 08, 2025</p>
-        </a>
+      <img src="/assets/img/zone/icon.svg" alt="ZONE Icon" />
+      <h3>ZONE</h3>
+      <p>Lets get into the ZONE</p>
+      <a href="/zone">Learn More</a>
     </div>
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </div>
+</div>
+
+<div class="ticker-wrapper">
+  <div class="ticker-content">
+    <p>New Projects adding soon. This website is still in devlopement phase. You might face bugs useing it. feel free to report it.</p>
+  </div>
 </div>
 
 
@@ -161,8 +216,6 @@
         <p style="font-size: 15px;">©2025</p>
     </footer>
     <script src="/assets/js/mode.js"></script>
-    
 
 </body>
 </html>
-

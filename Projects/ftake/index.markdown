@@ -1,8 +1,15 @@
 ---
-layout: post
-title:  "ftake!"
+title: ftake
+layout: def
 permalink: ftake
-date:   2025-04-08 17:53:54 +0530
-categories: ftake
+icon: /assets/img/ftake/icon.png
+description: ftake here is take all you banana points
+keywords: JA, JA by redlii, ftake,ja ftake, gambling game, 
 ---
-<p>this is ftake page</p>
+<h1>ftake</h1>
+<p>Earn as many banana points as you can if you may</p>
+
+---
+<h2><a class="linkhai" href="/ftake/privacy-policy">Privacy Policy</a></h2>
+---
+ 
