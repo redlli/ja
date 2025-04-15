@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-11T13:14:41+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">ja</title><subtitle>official page for ja. apps games and some cool stuff</subtitle><entry><title type="html">privacy-policy</title><link href="http://localhost:4000/ftake/privacy-policy" rel="alternate" type="text/html" title="privacy-policy" /><published>2025-04-08T17:53:54+05:30</published><updated>2025-04-08T17:53:54+05:30</updated><id>http://localhost:4000/ftake/ftake-privacy-policy</id><content type="html" xml:base="http://localhost:4000/ftake/privacy-policy"><![CDATA[<h1 id="privacy-policy-for-ftake">Privacy Policy for Ftake</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-15T17:53:59+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">JA</title><subtitle>official page for JA. Apps Games and many cool stuff.</subtitle><entry><title type="html">privacy-policy</title><link href="http://localhost:4000/ftake/privacy-policy" rel="alternate" type="text/html" title="privacy-policy" /><published>2025-04-08T17:53:54+05:30</published><updated>2025-04-08T17:53:54+05:30</updated><id>http://localhost:4000/ftake/ftake-privacy-policy</id><content type="html" xml:base="http://localhost:4000/ftake/privacy-policy"><![CDATA[<h1> Privacy Policy for Ftake</h1>
 
-<h2 id="1-data-collection--usage">1. Data Collection &amp; Usage</h2>
+<h2> 1. Data Collection &amp; Usage</h2>
 <ul>
   <li>We <strong>do not</strong> store any user data on our servers.</li>
   <li>All user data is saved locally on the user’s device.</li>
@@ -8,55 +8,61 @@
   <li>User data is used <strong>solely</strong> for the purpose of running the game; it is not used beyond this scope.</li>
 </ul>
 
-<h2 id="2-advertisements--rewards">2. Advertisements &amp; Rewards</h2>
+<h2> 2. Advertisements &amp; Rewards</h2>
 <ul>
-  <li>Ftake displays advertisements through <strong>AdMob</strong> to allow users to earn in-game rewards.</li>
-  <li>Ads are provided by third-party services, including Google AdMob. You can review AdMob’s policies here: <a href="https://admob.google.com/home/resources/terms-of-service/">AdMob Terms &amp; Conditions</a></li>
-  <li>Users may remove ads through a <strong>one-time purchase</strong> in the Play Store.</li>
+  <li>
+    <p>Ftake displays advertisements through <strong>AdMob</strong> to allow users to earn in-game rewards.</p>
+  </li>
+  <li>
+    <p>Ads are provided by third-party services, including Google AdMob. You can review AdMob’s policies here:<a class="linkhai" href="https://support.google.com/admob">AdMob Terms &amp; Conditions</a></p>
+  </li>
+  <li>
+    <p>Users may remove ads through a <strong>one-time purchase</strong> in the Play Store.</p>
+  </li>
 </ul>
 
-<h2 id="3-in-game-currency">3. In-Game Currency</h2>
+<h2> 3. In-Game Currency</h2>
 <ul>
   <li>Ftake uses <strong>Banana Points</strong>, a <strong>virtual currency</strong> that cannot be converted to real money.</li>
   <li>Users can earn Banana Points by watching advertisements.</li>
   <li>The game does <strong>not</strong> involve real-money transactions for gameplay.</li>
 </ul>
 
-<h2 id="4-addiction-disclaimer">4. Addiction Disclaimer</h2>
+<h2> 4. Addiction Disclaimer</h2>
 <ul>
   <li>Ftake is a <strong>free-to-play</strong> game that includes ads and rewards.</li>
   <li>We are <strong>not responsible</strong> for any form of addiction or excessive gameplay by users.</li>
 </ul>
 
-<h2 id="5-acceptance-of-policy">5. Acceptance of Policy</h2>
-<p>By playing Ftake, users <strong>accept</strong> this Privacy Policy and its terms. Continued use of the game indicates agreement with these practices.</p>]]></content><author><name></name></author><category term="Projects" /><category term="ftake" /><summary type="html"><![CDATA[privacy-policy page for ftake app]]></summary></entry><entry><title type="html">Privacy-Policy</title><link href="http://localhost:4000/zone/privacy-policy" rel="alternate" type="text/html" title="Privacy-Policy" /><published>2025-04-08T17:53:54+05:30</published><updated>2025-04-08T17:53:54+05:30</updated><id>http://localhost:4000/zone/zone-privacy-policy</id><content type="html" xml:base="http://localhost:4000/zone/privacy-policy"><![CDATA[<h1 id="privacy-policy-for-zone">Privacy Policy for zone</h1>
+<h2> 5. Acceptance of Policy</h2>
+<p>By playing Ftake, users <strong>accept</strong> this Privacy Policy and its terms. Continued use of the game indicates agreement with these practices.</p>]]></content><author><name></name></author><category term="Projects" /><category term="ftake" /><summary type="html"><![CDATA[privacy-policy page for ftake app]]></summary></entry><entry><title type="html">Privacy-Policy</title><link href="http://localhost:4000/zone/privacy-policy" rel="alternate" type="text/html" title="Privacy-Policy" /><published>2025-04-08T17:53:54+05:30</published><updated>2025-04-08T17:53:54+05:30</updated><id>http://localhost:4000/zone/zone-privacy-policy</id><content type="html" xml:base="http://localhost:4000/zone/privacy-policy"><![CDATA[<h1> Privacy Policy for zone</h1>
 
-<h2 id="introduction">Introduction</h2>
+<h2> Introduction</h2>
 
 <p>Welcome to <strong>ZONE!</strong> We are committed to protecting your privacy and ensuring that your data remains secure. This Privacy Policy explains how we collect, use, and protect your information.</p>
 
-<h2 id="data-collection-and-usage">Data Collection and Usage</h2>
+<h2> Data Collection and Usage</h2>
 
 <p>ZONE records user data solely on your device. This data is only accessible to you and is not stored on our servers.</p>
 
-<h2 id="data-security">Data Security</h2>
+<h2>Data Security</h2>
 
 <p>We have implemented robust security measures to ensure that your data is protected and remains private. The data you record on your phone will only be shown to you and will not be accessible to us, the developers.</p>
 
 <p>If your device gets hacked or stolen, we cannot take responsibility for recovering or securing your data.</p>
 
-<h2 id="third-party-access">Third-Party Access</h2>
+<h2> Third-Party Access</h2>
 
 <p>We <strong>do not</strong> sell, share, or distribute your data to any third parties. Your data is yours alone, and we respect your privacy.</p>
 
-<h2 id="developer-access">Developer Access</h2>
+<h2> Developer Access</h2>
 
 <p>As developers, we do <strong>not</strong> have access to the data you record on your device. All data is securely stored on your phone and is only accessible to you.</p>
 
-<h2 id="enjoy-zone">Enjoy ZONE</h2>
+<h2> Enjoy ZONE</h2>
 
 <p>We hope you enjoy using <strong>ZONE</strong> and feel confident knowing that your data is secure and private.</p>
 
-<h2 id="contact-us">Contact Us</h2>
+<h2> Contact Us</h2>
 
 <p>If you have any questions or concerns about our Privacy Policy, please feel free to contact us.</p>]]></content><author><name></name></author><category term="Projects" /><category term="zone" /><summary type="html"><![CDATA[privacy-policy page for Zone app]]></summary></entry></feed>
