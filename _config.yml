@@ -15,12 +15,6 @@ seo:
   icon: "/assets/img/icons/JA_logo.png"
   
   
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "def"
-      icon: "/assets/img/icons/JA_logo.png"
 
 # Build settings
 theme: minima

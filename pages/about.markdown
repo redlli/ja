@@ -3,7 +3,7 @@ title: About
 layout: def
 permalink: /about
 icon: /assets/img/icons/JA_logo.png
-description: About redlii and JA
+description: Redlii is an idea about liberation, accepting change, helping others, and understanding our own self
 keywords: JA, JA by redlii, about redlii, about JA, app, JA apps, JA games, mobile apps, fun games, about us
 ---
 
