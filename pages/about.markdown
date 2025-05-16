@@ -20,8 +20,8 @@ keywords: JA, JA by redlii, about redlii, about JA, app, JA apps, JA games, mobi
 <h2>How You Can Contribute to JA by Redlii</h2>
 <p>
   <ul>
-    <li><strong>Donate:</strong> If you have money and like using our stuff or find it interesting, give us money. We need it.</li>
-    <li><strong>Share Your Ideas:</strong> If you have any cool ideas, feel free to reach out to us and become part of JA.</li>
+    <li><a class="linkhai" href="https://redlii.com/support"><strong>Donate:</strong></a> If you have money and like using our stuff or find it interesting, give us money. We need it.</li>
+    <li><a class="linkhai" href="/contactus"><strong>Share Your Ideas:</strong></a> If you have any cool ideas, feel free to reach out to us and become part of JA.</li>
     <li><strong>Code:</strong> In your free time, fix bugs and contribute to open source.</li>
     <li><strong>Spread the Word:</strong> Use open source instead of money-hungry stuff and share some of our cool stuff.</li>
   </ul>
