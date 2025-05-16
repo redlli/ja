@@ -37,5 +37,5 @@ We hope you enjoy using **ZONE** and feel confident knowing that your data is se
 
 <h2> Contact Us</h2>
 
-If you have any questions or concerns about our Privacy Policy, please feel free to contact us.
+If you have any questions or concerns about our Privacy Policy, please feel free to <a class="linkhai" href="/contactus">Contact Us</a>.
 

@@ -34,4 +34,7 @@ keywords: "what is privacy-policy for ftake app, dose ftake collacet any user da
 <h2> 5. Acceptance of Policy</h2>
 By playing Ftake, users **accept** this Privacy Policy and its terms. Continued use of the game indicates agreement with these practices.
 
+<h2> Contact Us</h2>
+
+If you have any questions or concerns about our Privacy Policy, please feel free to <a class="linkhai" href="/contactus">Contact Us</a>.
 
