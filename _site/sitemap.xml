@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/blank/privacy-policy</loc>
+<lastmod>2025-04-08T17:53:54+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tap/privacy-policy</loc>
+<lastmod>2025-04-08T17:53:54+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/ftake/privacy-policy</loc>
+<lastmod>2025-04-08T17:53:54+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/momo/privacy-policy</loc>
 <lastmod>2025-04-08T17:53:54+05:30</lastmod>
 </url>
 <url>
@@ -10,6 +22,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/404</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contactus</loc>
 </url>
 <url>
 <loc>http://localhost:4000/readme</loc>
@@ -27,6 +42,18 @@
 <loc>http://localhost:4000/zone</loc>
 </url>
 <url>
+<loc>http://localhost:4000/momo</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blank</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tap</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/support</loc>
 </url>
 </urlset>

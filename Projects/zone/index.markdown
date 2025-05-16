@@ -2,7 +2,7 @@
 title: ZONE 
 layout: def
 permalink: zone
-icon: /assets/img/zone/icon.svg
+icon: https://play-lh.googleusercontent.com/5ODAnjAehOyiFoGQHW42R-HLYh7yxEz3OwzkW-rGhKkHDKtOlRvvshOYIYIHx85QMu0=w240-h480
 description: Lets get into the ZONE  
 keywords: ZONE app, productivity, focus timer, to-do list, study sessions, App to focus, app for better study, fix attntion span, let you focus more
 ---
