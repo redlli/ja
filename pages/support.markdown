@@ -1,6 +1,6 @@
 ---
 title: Support
-layout: home
+layout: def
 permalink: /support
 icon: /assets/img/logo.png
 description: Support us page
@@ -9,69 +9,59 @@ keywords: Support, Support us
 
 <style>
     /* Centering Container */
-    #upi {
-        background: #fff;
-        padding: 30px;
-        border-radius: 15px;
-        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    #support-container {
+        background: #f9f9f9;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
         display: flex;
         flex-direction: column;
-        align-items: center; /* Centering content */
-        justify-content: center;
+        align-items: center;
         text-align: center;
-        max-width: 400px;
-        margin: auto; /* Centers the section */
+        max-width: 450px;
+        margin: auto;
     }
 
-    /* Rotating Animation */
-    @keyframes rotate {
-        from {
-            transform: rotate(0deg);
-        }
-        to {
-            transform: rotate(360deg);
-        }
-    }
-
-    /* QR Code */
-    #upiQR {
-        width: 250px;
-        animation: rotate 6s linear infinite;
+    /* QR Code Styling */
+    #support-container img {
+        width: 280px;
+        border-radius: 10px;
         transition: transform 0.3s ease-in-out;
-        margin-bottom: 20px; /* Adds spacing */
+        margin-bottom: 20px;
     }
 
-    #upiQR:hover {
-        transform: scale(1.1);
+    #support-container img:hover {
+        transform: scale(1.05);
     }
 
     /* Support Box */
-    .support-box {
-        width: 220px;
+    .support-button {
+        width: 240px;
         padding: 15px;
-        background-color: #ffdd57;
-        color: #000;
-        font-size: 20px;
+        background: #ffcc00;
+        color: #333;
+        font-size: 22px;
         font-weight: bold;
-        border-radius: 10px;
+        border-radius: 8px;
         cursor: pointer;
-        box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.3);
+        box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
         transition: all 0.3s ease-in-out;
-        margin-top: 15px;
+        margin-top: 20px;
         text-align: center;
     }
 
-    .support-box:hover {
-        background-color: #ffc107;
-        transform: translateY(-5px);
+    .support-button:hover {
+        background: #ffb300;
+        transform: translateY(-4px);
     }
+    
 </style>
 
 <section id="upi">
     <p style="font-size: 30px"> Support me by giving me your money</p>
 
     <a class="linkhai" href="https://buymeacoffee.com/redlii">
-        <img id="upiQR" alt="UPI QR Code">
+        <img src="https://redlii.com/assets/img/bmc_qr.png" alt="Support QR Code">
     </a>
 
     <div class="support-box" onclick="window.location.href='https://buymeacoffee.com/redlii';">
