@@ -46,6 +46,14 @@
     
       
         {
+          "title": "privacy-policy",
+          "snippet": "Privacy Policy for Save Jeny Introduction Welcome to Save Jeny! We are committed to protecting your privacy. Because Save Jeny is a fully offline game,...",
+          "url": "/save-jeny/privacy-policy"
+        },
+      
+    
+      
+        {
           "title": "Privacy-Policy",
           "snippet": "Privacy Policy for The Cube Introduction Welcome to The Cube! We are committed to protecting your privacy and ensuring that your data remains secure. This...",
           "url": "/cube/privacy-policy"
@@ -120,79 +128,99 @@
     <div class="main-content">
         <div class="content">
             <style>
-
   /* Projects Section */
   .section.projects {
-    padding: 40px 20px;
+    padding: 60px 20px;
     text-align: center;
+    background-color: #0b0b0b; /* Deep black section background */
   }
   .section.projects h2 {
-    font-size: 2.5em;
-    margin-bottom: 30px;
-    color: white;
+    font-size: 2.8em;
+    margin-bottom: 40px;
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 2px;
   }
   .project-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 30px;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 35px;
     width: 90%;
     max-width: 1200px;
     margin: 20px auto;
   }
   .card {
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-    padding: 20px;
+    background-color: #1e1e1e; /* Sleek dark card */
+    border: 1px solid #2a2a2a;
+    border-radius: 16px; /* Smooth rounded corners */
+    padding: 25px;
     text-align: center;
-    transition: transform 0.2s ease-in-out;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease, border-color 0.3s ease;
   }
   .card:hover {
-    transform: scale(1.05);
+    transform: translateY(-10px) scale(1.02); /* Pop-up lift effect */
+    border-color: #ff2a2a; /* Red border on hover */
+    box-shadow: 0px 15px 35px rgba(255, 42, 42, 0.25); /* Gaming neon red glow */
   }
   .card img {
-    width: 150px;
-    height: auto;
-    margin-bottom: 15px;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin: 0 auto 20px auto;
+    border: 3px solid #111111; /* Sharp black border */
+    border-radius: 22px;       /* App-style squircle corners */
+    display: block;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+    background-color: #151515;
   }
   .card h3 {
-    color: #4CAF50;
-    font-size: 1.5em;
-    margin-bottom: 10px;
+    color: #ff2a2a; /* Tech red title */
+    font-size: 1.6em;
+    margin-bottom: 12px;
+    font-weight: 700;
   }
   .card p {
-    color: #666;
-    margin-bottom: 15px;
+    color: #b3b3b3; /* Highly readable secondary text */
+    font-size: 0.95em;
+    line-height: 1.5;
+    margin-bottom: 25px;
   }
   .card a {
     display: inline-block;
     text-decoration: none;
-    color: #007bff;
-    font-weight: bold;
-    padding: 10px 20px;
-    border: 1px solid #007bff;
-    border-radius: 5px;
-    transition: background-color 0.3s ease, color 0.3s ease;
+    color: #ffffff;
+    font-weight: 600;
+    padding: 10px 24px;
+    background: #007bff;
+    border-radius: 8px;
+    transition: background 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: 0 4px 15px rgba(0, 123, 255, 0.3);
   }
   .card a:hover {
-    background-color: #007bff;
-    color: white;
+    background: #0069d9;
+    box-shadow: 0 6px 20px rgba(0, 123, 255, 0.5);
   }
 
   /* Scrolling Ticker */
   .ticker-wrapper {
     overflow: hidden;
-    background-color: #222;
-    margin-top: 10px;
+    background-color: #111;
+    border-top: 1px solid #222;
+    border-bottom: 1px solid #222;
+    padding: 10px 0;
     width: 100%;
   }
   .ticker-content {
     display: inline-block;
     white-space: nowrap;
-    animation: scrollTicker 15s linear infinite;
-    color: white;
-    font-size: 1.2em;
-    font-weight: bold;
+    animation: scrollTicker 20s linear infinite;
+    color: #888;
+    font-size: 1em;
+  }
+  .ticker-content p {
+    margin: 0;
   }
   @keyframes scrollTicker {
     from { transform: translateX(100%); }
@@ -201,7 +229,6 @@
 </style>
 
 <div class="section projects">
-  <h2>Projects</h2>
   <div class="project-container">
     
     
@@ -269,6 +296,15 @@
     
     
     
+    <div class="card">
+      <img src="/Projects/save_jeny/img/icon.png" alt="Save Jeny Icon" />
+      <h3>Save Jeny</h3>
+      <p>Save Jeny While trying to save a cat, Jeny fell into a dungeon-like pit. She broke her leg, so she...</p>
+      <a href="/save-jeny">Learn More</a>
+    </div>
+    
+    
+    
     
     
     
@@ -285,10 +321,9 @@
 
 <div class="ticker-wrapper">
   <div class="ticker-content">
-    <p>New Projects adding soon. This website is still in devlopement phase. You might face bugs useing it. feel free to report it.</p>
+    <p>New Projects adding soon. This website is still in development phase. You might face bugs using it. Feel free to report it.</p>
   </div>
 </div>
-
 
         </div>
     </div>

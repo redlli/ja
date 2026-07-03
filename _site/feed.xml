@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-06-03T20:17:24+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">JA</title><subtitle>official page for JA. Apps Games and many cool stuff.</subtitle><entry><title type="html">Privacy-Policy</title><link href="http://localhost:4000/cube/privacy-policy" rel="alternate" type="text/html" title="Privacy-Policy" /><published>2026-05-25T00:05:00+05:30</published><updated>2026-05-25T00:05:00+05:30</updated><id>http://localhost:4000/cube/cube-privacy-policy</id><content type="html" xml:base="http://localhost:4000/cube/privacy-policy"><![CDATA[<h1> Privacy Policy for The Cube</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-07-03T17:01:53+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">JA</title><subtitle>official page for JA. Apps Games and many cool stuff.</subtitle><entry><title type="html">privacy-policy</title><link href="http://localhost:4000/save-jeny/privacy-policy" rel="alternate" type="text/html" title="privacy-policy" /><published>2026-06-26T00:05:00+05:30</published><updated>2026-06-26T00:05:00+05:30</updated><id>http://localhost:4000/save-jeny/save_jeny-privacy-policy</id><content type="html" xml:base="http://localhost:4000/save-jeny/privacy-policy"><![CDATA[<h1>Privacy Policy for Save Jeny</h1>
+
+<h2>Introduction</h2>
+<p>Welcome to <strong>Save Jeny!</strong> We are committed to protecting your privacy. Because Save Jeny is a fully offline game, your data remains entirely in your hands. This Privacy Policy explains how your information is handled.</p>
+
+<h2>No Online Accounts Required</h2>
+<p>Save Jeny does not require you to create an account, sign in, or provide any personal information to play. You can enjoy the full game completely offline.</p>
+
+<h2>Local Data Storage and Usage</h2>
+<p>The game saves your progress, high scores, and settings <strong>solely on your local device</strong>. No online cloud saves are used, and no data is transmitted over the internet.</p>
+
+<h2>Data Security and Responsibility</h2>
+<p>Because your save files are stored locally on your device, they are as secure as your phone or tablet itself. Please note that we do not have access to your device; if your device is lost, stolen, damaged, or cleared, we cannot recover your game progress for you.</p>
+
+<h2>Third-Party Access and Developer Access</h2>
+<p>We <strong>do not</strong> collect, track, sell, share, or distribute any of your data. As developers, we have zero access to your device's save files or gameplay history. Your data belongs entirely to you.</p>
+
+<h2>Third-Party Platform Collection</h2>
+<p>While the game itself functions entirely offline, please be aware that the store platforms you use to download or purchase the game (such as Google Play or itch.io) may automatically collect certain device data, distribution statistics, or payment information in accordance with their own respective privacy policies. We do not control and are not responsible for the data practices of these individual storefronts.</p>
+
+<h2>Enjoy Save Jeny</h2>
+<p>We hope you enjoy playing <strong>Save Jeny</strong> with peace of mind, knowing that your gaming experience is 100% private and secure.</p>
+
+<h2>Contact Us</h2>
+<p>If you have any questions or concerns about this Privacy Policy, please feel free to <a class="linkhai" href="/contactus">Contact Us</a>.</p>]]></content><author><name></name></author><category term="Projects" /><category term="save_jeny" /><category term="save-jeny" /><summary type="html"><![CDATA[Privacy policy page for the Save Jeny game]]></summary></entry><entry><title type="html">Privacy-Policy</title><link href="http://localhost:4000/cube/privacy-policy" rel="alternate" type="text/html" title="Privacy-Policy" /><published>2026-05-25T00:05:00+05:30</published><updated>2026-05-25T00:05:00+05:30</updated><id>http://localhost:4000/cube/cube-privacy-policy</id><content type="html" xml:base="http://localhost:4000/cube/privacy-policy"><![CDATA[<h1> Privacy Policy for The Cube</h1>
 
 <h2> Introduction</h2>
 
@@ -22,6 +46,9 @@
 
 <p>As developers, we do <strong>not</strong> have access to the data you record on your device. All data is securely stored on your phone and is only accessible to you.</p>
 
+<h2>Third-Party Platform Collection</h2>
+<p>While the game itself functions entirely offline, please be aware that the store platforms you use to download or purchase the game (such as Google Play or itch.io) may automatically collect certain device data, distribution statistics, or payment information in accordance with their own respective privacy policies. We do not control and are not responsible for the data practices of these individual storefronts.</p>
+
 <h2> Enjoy The Cube</h2>
 
 <p>We hope you enjoy using <strong>The Cube</strong> and feel confident knowing that your data is secure and private.</p>
@@ -38,6 +65,9 @@
 
 <p>We do not collect ant data for this game. Its simple install and play game. All the information required for the functioning games is stored exclusively on your device.</p>
 
+<h2>Third-Party Platform Collection</h2>
+<p>While the game itself functions entirely offline, please be aware that the store platforms you use to download or purchase the game (such as Google Play or itch.io) may automatically collect certain device data, distribution statistics, or payment information in accordance with their own respective privacy policies. We do not control and are not responsible for the data practices of these individual storefronts.</p>
+
 <h2> Contact Us</h2>
 
 <p>If you have any questions or concerns about our Privacy Policy, please feel free to <a class="linkhai" href="/contactus">Contact Us</a>.</p>]]></content><author><name></name></author><category term="Projects" /><category term="Blank" /><category term="blank" /><summary type="html"><![CDATA[privacy-policy page for blank app]]></summary></entry><entry><title type="html">Privacy-Policy</title><link href="http://localhost:4000/tap/privacy-policy" rel="alternate" type="text/html" title="Privacy-Policy" /><published>2025-04-08T17:53:54+05:30</published><updated>2025-04-08T17:53:54+05:30</updated><id>http://localhost:4000/tap/tap-privacy-policy</id><content type="html" xml:base="http://localhost:4000/tap/privacy-policy"><![CDATA[<h1> Privacy Policy for tap</h1>
@@ -49,6 +79,9 @@
 <h2> Data Collection and Usage</h2>
 
 <p>We do not collect ant data for this game. Its simple install and play game. All the information required for the functioning games is stored exclusively on your device.</p>
+
+<h2>Third-Party Platform Collection</h2>
+<p>While the game itself functions entirely offline, please be aware that the store platforms you use to download or purchase the game (such as Google Play or itch.io) may automatically collect certain device data, distribution statistics, or payment information in accordance with their own respective privacy policies. We do not control and are not responsible for the data practices of these individual storefronts.</p>
 
 <h2> Contact Us</h2>
 
@@ -91,6 +124,9 @@
 <h2> 5. Acceptance of Policy</h2>
 <p>By playing Ftake, users <strong>accept</strong> this Privacy Policy and its terms. Continued use of the game indicates agreement with these practices.</p>
 
+<h2>Third-Party Platform Collection</h2>
+<p>While the game itself functions entirely offline, please be aware that the store platforms you use to download or purchase the game (such as Google Play or itch.io) may automatically collect certain device data, distribution statistics, or payment information in accordance with their own respective privacy policies. We do not control and are not responsible for the data practices of these individual storefronts.</p>
+
 <h2> Contact Us</h2>
 
 <p>If you have any questions or concerns about our Privacy Policy, please feel free to <a class="linkhai" href="/contactus">Contact Us</a>.</p>]]></content><author><name></name></author><category term="Projects" /><category term="ftake" /><summary type="html"><![CDATA[privacy-policy page for ftake app]]></summary></entry><entry><title type="html">Privacy-Policy</title><link href="http://localhost:4000/momo/privacy-policy" rel="alternate" type="text/html" title="Privacy-Policy" /><published>2025-04-08T17:53:54+05:30</published><updated>2025-04-08T17:53:54+05:30</updated><id>http://localhost:4000/momo/momo-privacy-policy</id><content type="html" xml:base="http://localhost:4000/momo/privacy-policy"><![CDATA[<h1> Privacy Policy for momo</h1>
@@ -102,6 +138,9 @@
 <h2> Data Collection and Usage</h2>
 
 <p>We do not collect ant data for this game. Its simple install and play game. All the information required for the functioning games is stored exclusively on your device.</p>
+
+<h2>Third-Party Platform Collection</h2>
+<p>While the game itself functions entirely offline, please be aware that the store platforms you use to download or purchase the game (such as Google Play or itch.io) may automatically collect certain device data, distribution statistics, or payment information in accordance with their own respective privacy policies. We do not control and are not responsible for the data practices of these individual storefronts.</p>
 
 <h2> Contact Us</h2>
 
@@ -128,6 +167,9 @@
 <h2> Developer Access</h2>
 
 <p>As developers, we do <strong>not</strong> have access to the data you record on your device. All data is securely stored on your phone and is only accessible to you.</p>
+
+<h2>Third-Party Platform Collection</h2>
+<p>While the game itself functions entirely offline, please be aware that the store platforms you use to download or purchase the game (such as Google Play or itch.io) may automatically collect certain device data, distribution statistics, or payment information in accordance with their own respective privacy policies. We do not control and are not responsible for the data practices of these individual storefronts.</p>
 
 <h2> Enjoy ZONE</h2>
 

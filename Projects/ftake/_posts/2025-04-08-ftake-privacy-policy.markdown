@@ -31,8 +31,12 @@ keywords: "what is privacy-policy for ftake app, dose ftake collacet any user da
 - Ftake is a **free-to-play** game that includes ads and rewards.
 - We are **not responsible** for any form of addiction or excessive gameplay by users.
 
+
 <h2> 5. Acceptance of Policy</h2>
 By playing Ftake, users **accept** this Privacy Policy and its terms. Continued use of the game indicates agreement with these practices.
+
+<h2>Third-Party Platform Collection</h2>
+<p>While the game itself functions entirely offline, please be aware that the store platforms you use to download or purchase the game (such as Google Play or itch.io) may automatically collect certain device data, distribution statistics, or payment information in accordance with their own respective privacy policies. We do not control and are not responsible for the data practices of these individual storefronts.</p>
 
 <h2> Contact Us</h2>
 

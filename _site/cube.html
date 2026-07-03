@@ -46,6 +46,14 @@
     
       
         {
+          "title": "privacy-policy",
+          "snippet": "Privacy Policy for Save Jeny Introduction Welcome to Save Jeny! We are committed to protecting your privacy. Because Save Jeny is a fully offline game,...",
+          "url": "/save-jeny/privacy-policy"
+        },
+      
+    
+      
+        {
           "title": "Privacy-Policy",
           "snippet": "Privacy Policy for The Cube Introduction Welcome to The Cube! We are committed to protecting your privacy and ensuring that your data remains secure. This...",
           "url": "/cube/privacy-policy"
@@ -130,7 +138,10 @@
         width: 100%;
         height: auto;
         border-radius: 10px;
+        border: 2px solid #ffffff;
+        outline: 1px solid rgba(0, 0, 0, 0.1);
         box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+        cursor: pointer;
     }
      .fullscreen {
         position: fixed;
@@ -149,6 +160,7 @@
         max-width: 90%;
         max-height: 90%;
         border-radius: 10px;
+        border: 3px solid #ffffff;
     }
     .nav-arrow {
         position: absolute;
@@ -162,30 +174,26 @@
     .prev { left: 20px; }
     .next { right: 20px; }
 
-    /* GitHub Button Styling */
-    .github-btn {
+    /* Store Links & Buttons Custom Styling */
+    .store-links a {
         display: inline-flex;
         align-items: center;
-        background-color: #24292e;
-        color: white;
-        padding: 10px 20px;
-        font-size: 16px;
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-        font-weight: 600;
-        border-radius: 6px;
-        text-decoration: none;
-        margin: 3%;
+        justify-content: center;
+        height: 50px; 
+        margin: 10px;
         vertical-align: middle;
-        height: 40px; /* Aligns visually with the play store badge height */
+        border: 2px solid #ffffff; 
+        border-radius: 6px;
         box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
-        transition: background-color 0.2s;
+        box-sizing: border-box; 
     }
-    .github-btn:hover {
-        background-color: #2c3238;
-    }
-    .github-btn svg {
-        margin-right: 8px;
-        fill: white;
+
+    /* Standardizing the images inside the anchor tags */
+    .store-links a img {
+        height: 100%;
+        width: auto;
+        display: block;
+        border-radius: 4px; 
     }
 </style>
 
@@ -206,14 +214,19 @@
         <img src="https://play-lh.googleusercontent.com/eq9QzTeTS7C3TFR_5q-sFCmrw8h3KuhAyCwKZFqvSTRi033Zl4RUCZwobwxWuf8MqnolcLDtRX00xjI4xttC=w2560-h1440-rw" alt="Screenshot 4" />
     </div>
     
-    <a href="https://play.google.com/store/apps/details?id=com.ja.redlii.cube">
-        <img style="height: 60px; width: auto; margin:3%; vertical-align: middle;" src="/assets/img/icons/GetItOnGooglePlay.png" alt="Get it on Google Play" />
-    </a>
+    <div class="store-links" style="margin-top: 20px;">
+        <a href="https://play.google.com/store/apps/details?id=com.ja.redlii.cube">
+            <img src="/assets/img/icons/GetItOnGooglePlay.png" alt="Get it on Google Play" />
+        </a>
+        
+        <a href="https://ja-by-redlii.itch.io">
+            <img src="/assets/img/icons/GetItOnItch.svg" alt="Get it on Itch.io" />
+        </a>
 
-    <a href="https://github.com/redlli/The-Cube" target="_blank" class="github-btn">
-        <svg height="24" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
-        View Code on GitHub
-    </a>
+        <a href="https://github.com/redlli">
+            <img src="/assets/img/icons/GetItOnGit.svg" alt="Git Code" />
+        </a>
+    </div>
 
 </div>
 ---

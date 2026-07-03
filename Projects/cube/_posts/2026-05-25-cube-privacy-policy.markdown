@@ -31,6 +31,9 @@ We **do not** sell, share, or distribute your data to any third parties. Your da
 
 As developers, we do **not** have access to the data you record on your device. All data is securely stored on your phone and is only accessible to you.
 
+<h2>Third-Party Platform Collection</h2>
+<p>While the game itself functions entirely offline, please be aware that the store platforms you use to download or purchase the game (such as Google Play or itch.io) may automatically collect certain device data, distribution statistics, or payment information in accordance with their own respective privacy policies. We do not control and are not responsible for the data practices of these individual storefronts.</p>
+
 <h2> Enjoy The Cube</h2>
 
 We hope you enjoy using **The Cube** and feel confident knowing that your data is secure and private.

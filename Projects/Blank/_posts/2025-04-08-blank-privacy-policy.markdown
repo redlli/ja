@@ -17,6 +17,9 @@ Welcome to **Blank!** We are committed to protecting your privacy and ensuring t
 
 We do not collect ant data for this game. Its simple install and play game. All the information required for the functioning games is stored exclusively on your device.
 
+<h2>Third-Party Platform Collection</h2>
+<p>While the game itself functions entirely offline, please be aware that the store platforms you use to download or purchase the game (such as Google Play or itch.io) may automatically collect certain device data, distribution statistics, or payment information in accordance with their own respective privacy policies. We do not control and are not responsible for the data practices of these individual storefronts.</p>
+
 
 
 <h2> Contact Us</h2>

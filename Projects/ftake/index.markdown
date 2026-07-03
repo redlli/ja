@@ -3,6 +3,7 @@ title: ftake
 layout: def
 permalink: ftake
 icon: https://play-lh.googleusercontent.com/b7GBfVap-ED3lgGiZsce4cwHiQ77zyHjypl21K74JgcypqKP6CBP1vqwlcqSbqVKlFg=w240-h480
+
 description: ftake here is take all you banana points
 keywords: JA, JA by redlii, ftake,ja ftake, gambling game, 
 ---
@@ -17,7 +18,10 @@ keywords: JA, JA by redlii, ftake,ja ftake, gambling game,
         width: 100%;
         height: auto;
         border-radius: 10px;
+        border: 2px solid #ffffff;
+        outline: 1px solid rgba(0, 0, 0, 0.1);
         box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+        cursor: pointer;
     }
      .fullscreen {
         position: fixed;
@@ -36,6 +40,7 @@ keywords: JA, JA by redlii, ftake,ja ftake, gambling game,
         max-width: 90%;
         max-height: 90%;
         border-radius: 10px;
+        border: 3px solid #ffffff;
     }
     .nav-arrow {
         position: absolute;
@@ -48,6 +53,28 @@ keywords: JA, JA by redlii, ftake,ja ftake, gambling game,
     }
     .prev { left: 20px; }
     .next { right: 20px; }
+
+    /* Store Links & Buttons Custom Styling */
+    .store-links a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        height: 50px; 
+        margin: 10px;
+        vertical-align: middle;
+        border: 2px solid #ffffff; 
+        border-radius: 6px;
+        box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+        box-sizing: border-box; 
+    }
+
+    /* Standardizing the images inside the anchor tags */
+    .store-links a img {
+        height: 100%;
+        width: auto;
+        display: block;
+        border-radius: 4px; 
+    }
 </style>
 
 <div class="container">
@@ -55,14 +82,25 @@ keywords: JA, JA by redlii, ftake,ja ftake, gambling game,
     <h2>Earn as many banana points as you can if you may</h2>
 
     <div class="images">
-        <img src="/assets/img/ftake/2.png" alt="Screenshot 1">
-        <img src="/assets/img/ftake/1.png" alt="Screenshot 2">
-        <img src="/assets/img/ftake/3.png" alt="Screenshot 3">
-        <img src="/assets/img/ftake/4.png" alt="Screenshot 4">
+        <img src="https://play-lh.googleusercontent.com/CYKaPwZ8NyulTa3WsMntxiRVEpC9UobXxjop4DLGuXWO5dkjjuW4cLXPt_zZkGpCop2ojTkqSuWNcZt-Pmjlm68=w2560-h1440" alt="Screenshot 1">
+        <img src="https://play-lh.googleusercontent.com/9-J_KxB_S14D4SEVh1L5cvnterIgJ0p00FKxOhkz-9VZAQAppWC7Zq3g17JAsYToEMkSe-xFAZNG83QSsnyr=w2560-h1440" alt="Screenshot 2">
+        <img src="https://play-lh.googleusercontent.com/pj36Hysx0i7bhQtidoEXW39m_J0Lg2nArqdnb7Lxa8Mrc-DedgJSYeREaeMDyd_BQQI4hTlL1DFj4sOTn5Ds=w2560-h1440" alt="Screenshot 3">
+        <img src="https://play-lh.googleusercontent.com/-4G_3Y19fYYjc1qx1nBhIS1JelK5R9SvVE7wb9d5dVgBl5x1ZXpexjQHXk-BcIAUy_oS2Sbtqu7KVoRz4Fmp2w=w2560-h1440" alt="Screenshot 4">
         
     </div>
-    <a href="https://play.google.com/store/apps/details?id=com.ja.ftake&pcampaignid=web_share">
-        <img style="height: 80px; width: auto; margin:3%;" src="/assets/img/icons/GetItOnGooglePlay.png"></a>
+    <div class="store-links" style="margin-top: 20px;">
+        <a href="https://play.google.com/store/apps/details?id=com.ja.ftake" alt="Get it on Google Play">
+        		<img src="/assets/img/icons/GetItOnGooglePlay.png" alt="Get it on Google Play">
+        </a>
+        
+        <a href="https://ja-by-redlii.itch.io">
+            <img src="/assets/img/icons/GetItOnItch.svg" alt="Get it on Itch.io">
+        </a>
+
+        <a href="https://github.com/redlli">
+            <img src="/assets/img/icons/GetItOnGit.svg" alt="Git Code">
+        </a>
+    </div>
 
 </div>
 ---

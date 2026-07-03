@@ -17,7 +17,10 @@ keywords: blank app, productivity, fix attntion span, let you focus more
         width: 100%;
         height: auto;
         border-radius: 10px;
+        border: 2px solid #ffffff;
+        outline: 1px solid rgba(0, 0, 0, 0.1);
         box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+        cursor: pointer;
     }
      .fullscreen {
         position: fixed;
@@ -36,6 +39,7 @@ keywords: blank app, productivity, fix attntion span, let you focus more
         max-width: 90%;
         max-height: 90%;
         border-radius: 10px;
+        border: 3px solid #ffffff;
     }
     .nav-arrow {
         position: absolute;
@@ -48,6 +52,28 @@ keywords: blank app, productivity, fix attntion span, let you focus more
     }
     .prev { left: 20px; }
     .next { right: 20px; }
+
+    /* Store Links & Buttons Custom Styling */
+    .store-links a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        height: 50px; 
+        margin: 10px;
+        vertical-align: middle;
+        border: 2px solid #ffffff; 
+        border-radius: 6px;
+        box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+        box-sizing: border-box; 
+    }
+
+    /* Standardizing the images inside the anchor tags */
+    .store-links a img {
+        height: 100%;
+        width: auto;
+        display: block;
+        border-radius: 4px; 
+    }
 </style>
 
 <div class="container">
@@ -59,10 +85,21 @@ keywords: blank app, productivity, fix attntion span, let you focus more
         <img src="https://play-lh.googleusercontent.com/2NuQ-EP1LLjNybIJlQesW-zjPMA_oWJ1xaD2QB4MAqxMsYcJN41uBvsZzh1LVMSq63w=w2560-h1440" alt="Screenshot 1">
         <img src="https://play-lh.googleusercontent.com/2NuQ-EP1LLjNybIJlQesW-zjPMA_oWJ1xaD2QB4MAqxMsYcJN41uBvsZzh1LVMSq63w=w2560-h1440" alt="Screenshot 2">
         <img src="https://play-lh.googleusercontent.com/2NuQ-EP1LLjNybIJlQesW-zjPMA_oWJ1xaD2QB4MAqxMsYcJN41uBvsZzh1LVMSq63w=w2560-h1440" alt="Screenshot 3">
-        <img src="https://play-lh.googleusercontent.com/KQMFxXFBBKSR2y50cWecj4w-6ol5kzRVwhMXylmSKXfJFpygY-WMmeVzrBA0THzD9kE=w2560-h1440" alt="Screenshot 4">
+
     </div>
-    <a href="https://play.google.com/store/apps/details?id=com.jallc.blank&pcampaignid=web_share">
-        <img style="height: 80px; width: auto; margin:3%;" src="/assets/img/icons/GetItOnGooglePlay.png"></a>
+    <div class="store-links" style="margin-top: 20px;">
+        <a href="https://play.google.com/store/apps/details?id=com.jallc.blank">
+            <img src="/assets/img/icons/GetItOnGooglePlay.png" alt="Get it on Google Play">
+        </a>
+        
+        <a href="https://ja-by-redlii.itch.io">
+            <img src="/assets/img/icons/GetItOnItch.svg" alt="Get it on Itch.io">
+        </a>
+
+        <a href="https://github.com/redlli">
+            <img src="/assets/img/icons/GetItOnGit.svg" alt="Git Code">
+        </a>
+    </div>
 
 </div>
 ---
